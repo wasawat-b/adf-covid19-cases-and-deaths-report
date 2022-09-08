@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-wasawat",
+	"location": "japanwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0fca1481-e524-494e-a55f-0d27cb6dcc11",
+		"tenantId": "24918752-d571-4a7c-b79d-b405c0b4ae5f"
+	}
+}
